@@ -1,0 +1,12 @@
+[package]
+name = "disker-os"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[lints.clippy]
+shadow_same = "deny"
+shadow_reuse = "deny"
+shadow_unrelated = "deny"

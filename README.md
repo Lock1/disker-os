@@ -1,2 +1,2 @@
-# hos
-Playground Repository for Osnomicon
+# Diskerer OS than DOS
+Playground Repository for Osnomicon.
